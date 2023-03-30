@@ -1,0 +1,2 @@
+D:\ЯПЗТ\LabWork1\x64\Debug\LabWork1.exe.lastcodeanalysissucceeded
+D:\ЯПЗТ\LabWork1\LabWork1\x64\Debug\NativeCodeAnalysis.read.1.tlog
